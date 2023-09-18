@@ -16,7 +16,7 @@ import java.util.stream.Collectors;
 
 public class StatsGenerator {
     private static final String packageName = "com.hvdbs.savra.hackerrank.solution.java";
-    private static final String solutionBaseUrl = "https://github.com/savra/LeetCode/blob/master/src/main/java/com/hvdbs/leetcode/solution/java/";
+    private static final String solutionBaseUrl = "https://github.com/savra/HackerRank/tree/master/src/main/java/com/hvdbs/savra/hackerrank/solution/java/";
 
     public static void generate() {
         try (InputStream inputStream = ClassLoader.getSystemClassLoader()
@@ -28,9 +28,9 @@ public class StatsGenerator {
             try (BufferedWriter bufferedWriter = Files.newBufferedWriter(Paths.get("README.md"), StandardOpenOption.TRUNCATE_EXISTING);
                  BufferedReader bufferedReader = new BufferedReader(new InputStreamReader(inputStream))) {
 
-                bufferedWriter.append("# LeetCode");
+                bufferedWriter.append("# HackerRank");
                 bufferedWriter.newLine();
-                bufferedWriter.append("Solving problems on LeetCode");
+                bufferedWriter.append("Solving problems on HackerRank");
 
                 Map<Difficulty, List<OutputHackerRankFormat>> difficultyListMap = bufferedReader.lines()
                         .map(solution -> {

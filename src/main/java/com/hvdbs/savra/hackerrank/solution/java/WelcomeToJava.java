@@ -6,7 +6,7 @@ import com.hvdbs.savra.hackerrank.statsgenerator.enums.Difficulty;
 @HackerRankInfo(
         difficulty = Difficulty.EASY,
         name = "Welcome to Java!",
-        url = "https://www.hackerrank.com/challenges/welcome-to-java/problem?isFullScreen=true"
+        url = "https://www.hackerrank.com/challenges/welcome-to-java"
 )
 public class WelcomeToJava {
     public static void main(String[] args) {

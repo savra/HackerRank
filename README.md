@@ -6,6 +6,7 @@ Solving problems on HackerRank
 |Name|Problem|Solution|
 |---|---|---|
 |Java Datatypes|https://www.hackerrank.com/challenges/java-datatypes|<a href='https://github.com/savra/HackerRank/tree/master/src/main/java/com/hvdbs/savra/hackerrank/solution/java/JavaDatatypes.java'>Java Datatypes</a>|
+|Java Date and Time|https://www.hackerrank.com/challenges/java-date-and-time|<a href='https://github.com/savra/HackerRank/tree/master/src/main/java/com/hvdbs/savra/hackerrank/solution/java/JavaDateAndTime.java'>Java Date and Time</a>|
 |Java End-of-file|https://www.hackerrank.com/challenges/java-end-of-file|<a href='https://github.com/savra/HackerRank/tree/master/src/main/java/com/hvdbs/savra/hackerrank/solution/java/JavaEndOfFile.java'>Java End-of-file</a>|
 |Java If-Else|https://www.hackerrank.com/challenges/java-if-else|<a href='https://github.com/savra/HackerRank/tree/master/src/main/java/com/hvdbs/savra/hackerrank/solution/java/JavaIfElse.java'>Java If-Else</a>|
 |Java Int to String|https://www.hackerrank.com/challenges/java-int-to-string|<a href='https://github.com/savra/HackerRank/tree/master/src/main/java/com/hvdbs/savra/hackerrank/solution/java/JavaIntToString.java'>Java Int to String</a>|

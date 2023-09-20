@@ -6,6 +6,7 @@ Solving problems on HackerRank
 |Name|Problem|Solution|
 |---|---|---|
 |Java Datatypes|https://www.hackerrank.com/challenges/java-datatypes|<a href='https://github.com/savra/HackerRank/tree/master/src/main/java/com/hvdbs/savra/hackerrank/solution/java/JavaDatatypes.java'>Java Datatypes</a>|
+|Java End-of-file|https://www.hackerrank.com/challenges/java-end-of-file|<a href='https://github.com/savra/HackerRank/tree/master/src/main/java/com/hvdbs/savra/hackerrank/solution/java/JavaEndOfFile.java'>Java End-of-file</a>|
 |Java If-Else|https://www.hackerrank.com/challenges/java-if-else|<a href='https://github.com/savra/HackerRank/tree/master/src/main/java/com/hvdbs/savra/hackerrank/solution/java/JavaIfElse.java'>Java If-Else</a>|
 |Java Loops I|https://www.hackerrank.com/challenges/java-loops-i|<a href='https://github.com/savra/HackerRank/tree/master/src/main/java/com/hvdbs/savra/hackerrank/solution/java/JavaLoopsI.java'>Java Loops I</a>|
 |Java Loops II|https://www.hackerrank.com/challenges/java-loops|<a href='https://github.com/savra/HackerRank/tree/master/src/main/java/com/hvdbs/savra/hackerrank/solution/java/JavaLoopsII.java'>Java Loops II</a>|

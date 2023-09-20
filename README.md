@@ -5,6 +5,7 @@ Solving problems on HackerRank
 
 |Name|Problem|Solution|
 |---|---|---|
+|Java Currency Formatter|https://www.hackerrank.com/challenges/java-currency-formatter|<a href='https://github.com/savra/HackerRank/tree/master/src/main/java/com/hvdbs/savra/hackerrank/solution/java/JavaCurrencyFormatter.java'>Java Currency Formatter</a>|
 |Java Datatypes|https://www.hackerrank.com/challenges/java-datatypes|<a href='https://github.com/savra/HackerRank/tree/master/src/main/java/com/hvdbs/savra/hackerrank/solution/java/JavaDatatypes.java'>Java Datatypes</a>|
 |Java Date and Time|https://www.hackerrank.com/challenges/java-date-and-time|<a href='https://github.com/savra/HackerRank/tree/master/src/main/java/com/hvdbs/savra/hackerrank/solution/java/JavaDateAndTime.java'>Java Date and Time</a>|
 |Java End-of-file|https://www.hackerrank.com/challenges/java-end-of-file|<a href='https://github.com/savra/HackerRank/tree/master/src/main/java/com/hvdbs/savra/hackerrank/solution/java/JavaEndOfFile.java'>Java End-of-file</a>|

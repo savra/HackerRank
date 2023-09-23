@@ -15,8 +15,8 @@ import java.util.function.Predicate;
 import java.util.stream.Collectors;
 
 public class StatsGenerator {
-    private static final String packageName = "com.hvdbs.savra.hackerrank.solution.java";
-    private static final String solutionBaseUrl = "https://github.com/savra/HackerRank/tree/master/src/main/java/com/hvdbs/savra/hackerrank/solution/java/";
+    private static final String packageName = "com.hvdbs.savra.hackerrank.topics.java";
+    private static final String solutionBaseUrl = "https://github.com/savra/HackerRank/tree/master/src/main/java/com/hvdbs/savra/hackerrank/topics/java";
 
     public static void generate() {
         try (InputStream inputStream = ClassLoader.getSystemClassLoader()

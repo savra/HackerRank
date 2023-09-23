@@ -1,4 +1,4 @@
-package com.hvdbs.savra.hackerrank.solution.java;
+package com.hvdbs.savra.hackerrank.topics.java;
 
 import com.hvdbs.savra.hackerrank.statsgenerator.HackerRankInfo;
 import com.hvdbs.savra.hackerrank.statsgenerator.enums.Difficulty;

@@ -19,5 +19,6 @@ Solving problems on HackerRank
 |Java Stdin and Stdout II|https://www.hackerrank.com/challenges/java-stdin-stdout|<a href='https://github.com/savra/HackerRank/tree/master/src/main/java/com/hvdbs/savra/hackerrank/topics/java/JavaStdinAndStdoutII.java'>Java Stdin and Stdout II</a>|
 |Java Strings Introduction|https://www.hackerrank.com/challenges/java-strings-introduction|<a href='https://github.com/savra/HackerRank/tree/master/src/main/java/com/hvdbs/savra/hackerrank/topics/java/JavaStringsIntroduction.java'>Java Strings Introduction</a>|
 |Java Substring|https://www.hackerrank.com/challenges/java-substring|<a href='https://github.com/savra/HackerRank/tree/master/src/main/java/com/hvdbs/savra/hackerrank/topics/java/JavaSubstring.java'>Java Substring</a>|
+|Java Substring Comparisons|https://www.hackerrank.com/challenges/java-string-compare|<a href='https://github.com/savra/HackerRank/tree/master/src/main/java/com/hvdbs/savra/hackerrank/topics/java/JavaSubstringComparisons.java'>Java Substring Comparisons</a>|
 |Welcome to Java!|https://www.hackerrank.com/challenges/welcome-to-java|<a href='https://github.com/savra/HackerRank/tree/master/src/main/java/com/hvdbs/savra/hackerrank/topics/java/WelcomeToJava.java'>Welcome to Java!</a>|
 </details>

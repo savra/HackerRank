@@ -44,6 +44,7 @@ Solving problems on HackerRank
 |Java Subarray|https://www.hackerrank.com/challenges/java-negative-subarray|<a href='https://github.com/savra/HackerRank/tree/master/src/main/java/com/hvdbs/savra/hackerrank/topics/java/JavaSubarray.java'>Java Subarray</a>|
 |Java Substring|https://www.hackerrank.com/challenges/java-substring|<a href='https://github.com/savra/HackerRank/tree/master/src/main/java/com/hvdbs/savra/hackerrank/topics/java/JavaSubstring.java'>Java Substring</a>|
 |Java Substring Comparisons|https://www.hackerrank.com/challenges/java-string-compare|<a href='https://github.com/savra/HackerRank/tree/master/src/main/java/com/hvdbs/savra/hackerrank/topics/java/JavaSubstringComparisons.java'>Java Substring Comparisons</a>|
+|Java Varargs - Simple Addition|https://www.hackerrank.com/challenges/simple-addition-varargs|<a href='https://github.com/savra/HackerRank/tree/master/src/main/java/com/hvdbs/savra/hackerrank/topics/java/JavaVarargsSimpleAddition.java'>Java Varargs - Simple Addition</a>|
 |Pattern Syntax Checker|https://www.hackerrank.com/challenges/pattern-syntax-checker|<a href='https://github.com/savra/HackerRank/tree/master/src/main/java/com/hvdbs/savra/hackerrank/topics/java/PatternSyntaxChecker.java'>Pattern Syntax Checker</a>|
 |Welcome to Java!|https://www.hackerrank.com/challenges/welcome-to-java|<a href='https://github.com/savra/HackerRank/tree/master/src/main/java/com/hvdbs/savra/hackerrank/topics/java/WelcomeToJava.java'>Welcome to Java!</a>|
 </details>

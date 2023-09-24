@@ -6,6 +6,7 @@ Solving problems on HackerRank
 |Name|Problem|Solution|
 |---|---|---|
 |Java Anagrams|https://www.hackerrank.com/challenges/java-anagrams|<a href='https://github.com/savra/HackerRank/tree/master/src/main/java/com/hvdbs/savra/hackerrank/topics/java/JavaAnagrams.java'>Java Anagrams</a>|
+|Java BigInteger|https://www.hackerrank.com/challenges/java-biginteger|<a href='https://github.com/savra/HackerRank/tree/master/src/main/java/com/hvdbs/savra/hackerrank/topics/java/JavaBigInteger.java'>Java BigInteger</a>|
 |Java Currency Formatter|https://www.hackerrank.com/challenges/java-currency-formatter|<a href='https://github.com/savra/HackerRank/tree/master/src/main/java/com/hvdbs/savra/hackerrank/topics/java/JavaCurrencyFormatter.java'>Java Currency Formatter</a>|
 |Java Datatypes|https://www.hackerrank.com/challenges/java-datatypes|<a href='https://github.com/savra/HackerRank/tree/master/src/main/java/com/hvdbs/savra/hackerrank/topics/java/JavaDatatypes.java'>Java Datatypes</a>|
 |Java Date and Time|https://www.hackerrank.com/challenges/java-date-and-time|<a href='https://github.com/savra/HackerRank/tree/master/src/main/java/com/hvdbs/savra/hackerrank/topics/java/JavaDateAndTime.java'>Java Date and Time</a>|

@@ -5,6 +5,7 @@ Solving problems on HackerRank
 
 |Name|Problem|Solution|
 |---|---|---|
+|Java Abstract Class|https://www.hackerrank.com/challenges/java-abstract-class|<a href='https://github.com/savra/HackerRank/tree/master/src/main/java/com/hvdbs/savra/hackerrank/topics/java/JavaAbstractClass.java'>Java Abstract Class</a>|
 |Java Anagrams|https://www.hackerrank.com/challenges/java-anagrams|<a href='https://github.com/savra/HackerRank/tree/master/src/main/java/com/hvdbs/savra/hackerrank/topics/java/JavaAnagrams.java'>Java Anagrams</a>|
 |Java BigInteger|https://www.hackerrank.com/challenges/java-biginteger|<a href='https://github.com/savra/HackerRank/tree/master/src/main/java/com/hvdbs/savra/hackerrank/topics/java/JavaBigInteger.java'>Java BigInteger</a>|
 |Java Currency Formatter|https://www.hackerrank.com/challenges/java-currency-formatter|<a href='https://github.com/savra/HackerRank/tree/master/src/main/java/com/hvdbs/savra/hackerrank/topics/java/JavaCurrencyFormatter.java'>Java Currency Formatter</a>|

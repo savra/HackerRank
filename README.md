@@ -51,5 +51,6 @@ Solving problems on HackerRank
 |Java Substring Comparisons|https://www.hackerrank.com/challenges/java-string-compare|<a href='https://github.com/savra/HackerRank/tree/master/src/main/java/com/hvdbs/savra/hackerrank/topics/java/JavaSubstringComparisons.java'>Java Substring Comparisons</a>|
 |Java Varargs - Simple Addition|https://www.hackerrank.com/challenges/simple-addition-varargs|<a href='https://github.com/savra/HackerRank/tree/master/src/main/java/com/hvdbs/savra/hackerrank/topics/java/JavaVarargsSimpleAddition.java'>Java Varargs - Simple Addition</a>|
 |Pattern Syntax Checker|https://www.hackerrank.com/challenges/pattern-syntax-checker|<a href='https://github.com/savra/HackerRank/tree/master/src/main/java/com/hvdbs/savra/hackerrank/topics/java/PatternSyntaxChecker.java'>Pattern Syntax Checker</a>|
+|Valid Username Regular Expression|https://www.hackerrank.com/challenges/valid-username-checker|<a href='https://github.com/savra/HackerRank/tree/master/src/main/java/com/hvdbs/savra/hackerrank/topics/java/ValidUsernameRegularExpression.java'>Valid Username Regular Expression</a>|
 |Welcome to Java!|https://www.hackerrank.com/challenges/welcome-to-java|<a href='https://github.com/savra/HackerRank/tree/master/src/main/java/com/hvdbs/savra/hackerrank/topics/java/WelcomeToJava.java'>Welcome to Java!</a>|
 </details>

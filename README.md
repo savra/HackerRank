@@ -5,6 +5,7 @@ Solving problems on HackerRank
 
 |Name|Problem|Solution|
 |---|---|---|
+|Covariant Return Types|https://www.hackerrank.com/challenges/java-covariance|<a href='https://github.com/savra/HackerRank/tree/master/src/main/java/com/hvdbs/savra/hackerrank/topics/java/CovariantReturnTypes.java'>Covariant Return Types</a>|
 |Java 1D Array|https://www.hackerrank.com/challenges/java-1d-array-introduction|<a href='https://github.com/savra/HackerRank/tree/master/src/main/java/com/hvdbs/savra/hackerrank/topics/java/Java1DArray.java'>Java 1D Array</a>|
 |Java 2D Array|https://www.hackerrank.com/challenges/java-2d-array|<a href='https://github.com/savra/HackerRank/tree/master/src/main/java/com/hvdbs/savra/hackerrank/topics/java/Java2DArray.java'>Java 2D Array</a>|
 |Java Abstract Class|https://www.hackerrank.com/challenges/java-abstract-class|<a href='https://github.com/savra/HackerRank/tree/master/src/main/java/com/hvdbs/savra/hackerrank/topics/java/JavaAbstractClass.java'>Java Abstract Class</a>|

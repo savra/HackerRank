@@ -63,5 +63,6 @@ Solving problems on HackerRank
 
 |Name|Problem|Solution|
 |---|---|---|
+|Java Regex|https://www.hackerrank.com/challenges/java-regex|<a href='https://github.com/savra/HackerRank/tree/master/src/main/java/com/hvdbs/savra/hackerrank/topics/java/JavaRegex.java'>Java Regex</a>|
 |Prime Checker|https://www.hackerrank.com/challenges/prime-checker|<a href='https://github.com/savra/HackerRank/tree/master/src/main/java/com/hvdbs/savra/hackerrank/topics/java/PrimeChecker.java'>Prime Checker</a>|
 </details>

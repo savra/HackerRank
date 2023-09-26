@@ -58,3 +58,10 @@ Solving problems on HackerRank
 |Valid Username Regular Expression|https://www.hackerrank.com/challenges/valid-username-checker|<a href='https://github.com/savra/HackerRank/tree/master/src/main/java/com/hvdbs/savra/hackerrank/topics/java/ValidUsernameRegularExpression.java'>Valid Username Regular Expression</a>|
 |Welcome to Java!|https://www.hackerrank.com/challenges/welcome-to-java|<a href='https://github.com/savra/HackerRank/tree/master/src/main/java/com/hvdbs/savra/hackerrank/topics/java/WelcomeToJava.java'>Welcome to Java!</a>|
 </details>
+<details>
+<summary>MEDIUM</summary>
+
+|Name|Problem|Solution|
+|---|---|---|
+|Prime Checker|https://www.hackerrank.com/challenges/prime-checker|<a href='https://github.com/savra/HackerRank/tree/master/src/main/java/com/hvdbs/savra/hackerrank/topics/java/PrimeChecker.java'>Prime Checker</a>|
+</details>

@@ -1,6 +1,15 @@
 # HackerRank
 Solving problems on HackerRank
 <details>
+<summary>MEDIUM</summary>
+
+|Name|Problem|Solution|
+|---|---|---|
+|Can You Access?|https://www.hackerrank.com/challenges/can-you-access|<a href='https://github.com/savra/HackerRank/tree/master/src/main/java/com/hvdbs/savra/hackerrank/topics/java/CanYouAccess.java'>Can You Access?</a>|
+|Java Regex|https://www.hackerrank.com/challenges/java-regex|<a href='https://github.com/savra/HackerRank/tree/master/src/main/java/com/hvdbs/savra/hackerrank/topics/java/JavaRegex.java'>Java Regex</a>|
+|Prime Checker|https://www.hackerrank.com/challenges/prime-checker|<a href='https://github.com/savra/HackerRank/tree/master/src/main/java/com/hvdbs/savra/hackerrank/topics/java/PrimeChecker.java'>Prime Checker</a>|
+</details>
+<details>
 <summary>EASY</summary>
 
 |Name|Problem|Solution|
@@ -57,13 +66,4 @@ Solving problems on HackerRank
 |Pattern Syntax Checker|https://www.hackerrank.com/challenges/pattern-syntax-checker|<a href='https://github.com/savra/HackerRank/tree/master/src/main/java/com/hvdbs/savra/hackerrank/topics/java/PatternSyntaxChecker.java'>Pattern Syntax Checker</a>|
 |Valid Username Regular Expression|https://www.hackerrank.com/challenges/valid-username-checker|<a href='https://github.com/savra/HackerRank/tree/master/src/main/java/com/hvdbs/savra/hackerrank/topics/java/ValidUsernameRegularExpression.java'>Valid Username Regular Expression</a>|
 |Welcome to Java!|https://www.hackerrank.com/challenges/welcome-to-java|<a href='https://github.com/savra/HackerRank/tree/master/src/main/java/com/hvdbs/savra/hackerrank/topics/java/WelcomeToJava.java'>Welcome to Java!</a>|
-</details>
-<details>
-<summary>MEDIUM</summary>
-
-|Name|Problem|Solution|
-|---|---|---|
-|Can You Access?|https://www.hackerrank.com/challenges/can-you-access|<a href='https://github.com/savra/HackerRank/tree/master/src/main/java/com/hvdbs/savra/hackerrank/topics/java/CanYouAccess.java'>Can You Access?</a>|
-|Java Regex|https://www.hackerrank.com/challenges/java-regex|<a href='https://github.com/savra/HackerRank/tree/master/src/main/java/com/hvdbs/savra/hackerrank/topics/java/JavaRegex.java'>Java Regex</a>|
-|Prime Checker|https://www.hackerrank.com/challenges/prime-checker|<a href='https://github.com/savra/HackerRank/tree/master/src/main/java/com/hvdbs/savra/hackerrank/topics/java/PrimeChecker.java'>Prime Checker</a>|
 </details>

@@ -49,7 +49,7 @@ public class PrintInReverse {
         }
 
         for (int i = res.size() - 1; i >= 0; i--) {
-            System.out.println(res.get(i));
+             System.out.println(res.get(i));
         }*/
 
         if (llist.next == null) {

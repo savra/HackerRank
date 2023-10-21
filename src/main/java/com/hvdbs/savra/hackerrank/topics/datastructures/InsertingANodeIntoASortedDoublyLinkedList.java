@@ -85,20 +85,4 @@ public class InsertingANodeIntoASortedDoublyLinkedList {
 
         return head;
     }
-
-    public static void main(String[] args) {
-        DoublyLinkedListNode root = new DoublyLinkedListNode(1);
-        DoublyLinkedListNode l1 = new DoublyLinkedListNode(2);
-        DoublyLinkedListNode l2 = new DoublyLinkedListNode(3);
-     //   DoublyLinkedListNode l3 = new DoublyLinkedListNode(10);
-
-        root.next = l1;
-        l1.prev = root;
-        l1.next = l2;
-        l2.prev = l1;
-       // l2.next = l3;
-       // l3.prev = l2;
-
-        sortedInsert(root, 4);
-    }
 }

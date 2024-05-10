@@ -1,12 +1,12 @@
 package com.hvdbs.savra.hackerrank.solution.java;
 
-import com.hvdbs.savra.hackerrank.statsgenerator.HackerRankInfo;
-import com.hvdbs.savra.hackerrank.statsgenerator.enums.Difficulty;
+import com.hvdbs.savra.statsgenerator.CodeInfo;
+import com.hvdbs.savra.statsgenerator.enums.Difficulty;
 
 import java.util.BitSet;
 import java.util.Scanner;
 
-@HackerRankInfo(
+@CodeInfo(
         difficulty = Difficulty.EASY,
         name = "Java BitSet",
         url = "https://www.hackerrank.com/challenges/java-bitset"

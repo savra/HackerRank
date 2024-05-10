@@ -1,13 +1,13 @@
 package com.hvdbs.savra.hackerrank.solution.java;
 
-import com.hvdbs.savra.hackerrank.statsgenerator.HackerRankInfo;
-import com.hvdbs.savra.hackerrank.statsgenerator.enums.Difficulty;
+import com.hvdbs.savra.statsgenerator.CodeInfo;
+import com.hvdbs.savra.statsgenerator.enums.Difficulty;
 
 import java.util.List;
 import java.util.PriorityQueue;
 import java.util.Queue;
 
-@HackerRankInfo(
+@CodeInfo(
         difficulty = Difficulty.EASY,
         name = "Jesse and Cookies",
         url = "https://www.hackerrank.com/challenges/jesse-and-cookies")

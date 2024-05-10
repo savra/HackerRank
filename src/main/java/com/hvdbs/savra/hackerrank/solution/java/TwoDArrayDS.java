@@ -1,11 +1,11 @@
 package com.hvdbs.savra.hackerrank.solution.java;
 
-import com.hvdbs.savra.hackerrank.statsgenerator.HackerRankInfo;
-import com.hvdbs.savra.hackerrank.statsgenerator.enums.Difficulty;
+import com.hvdbs.savra.statsgenerator.CodeInfo;
+import com.hvdbs.savra.statsgenerator.enums.Difficulty;
 
 import java.util.List;
 
-@HackerRankInfo(
+@CodeInfo(
         difficulty = Difficulty.EASY,
         name = "2D Array - DS",
         url = "https://www.hackerrank.com/challenges/2d-array"

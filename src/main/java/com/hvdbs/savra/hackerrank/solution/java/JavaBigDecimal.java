@@ -1,14 +1,14 @@
 package com.hvdbs.savra.hackerrank.solution.java;
 
-import com.hvdbs.savra.hackerrank.statsgenerator.HackerRankInfo;
-import com.hvdbs.savra.hackerrank.statsgenerator.enums.Difficulty;
+import com.hvdbs.savra.statsgenerator.CodeInfo;
+import com.hvdbs.savra.statsgenerator.enums.Difficulty;
 
 import java.math.BigDecimal;
 import java.util.Arrays;
 import java.util.Collections;
 import java.util.Scanner;
 
-@HackerRankInfo(
+@CodeInfo(
         difficulty = Difficulty.EASY,
         name = "Java BigDecimal",
         url = "https://www.hackerrank.com/challenges/java-bigdecimal"

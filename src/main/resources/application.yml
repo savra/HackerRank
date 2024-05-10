@@ -1,0 +1,6 @@
+stats-generator:
+  enable: true
+  github-repository-base-url: https://github.com/savra/HackerRank/tree/master/src/main/java/com/hvdbs/savra/hackerrank/solution
+  language:
+    java: true
+  solution-package-name: com.hvdbs.savra.hackerrank.solution

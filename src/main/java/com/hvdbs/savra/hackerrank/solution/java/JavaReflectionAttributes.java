@@ -1,13 +1,13 @@
 package com.hvdbs.savra.hackerrank.solution.java;
 
-import com.hvdbs.savra.hackerrank.statsgenerator.HackerRankInfo;
-import com.hvdbs.savra.hackerrank.statsgenerator.enums.Difficulty;
+import com.hvdbs.savra.statsgenerator.CodeInfo;
+import com.hvdbs.savra.statsgenerator.enums.Difficulty;
 
 import java.lang.reflect.Method;
 import java.util.ArrayList;
 import java.util.Collections;
 
-@HackerRankInfo(
+@CodeInfo(
         difficulty = Difficulty.EASY,
         name = "Java Reflection - Attributes",
         url = "https://www.hackerrank.com/challenges/java-reflection-attributes"

@@ -1,12 +1,12 @@
 package com.hvdbs.savra.hackerrank.solution.java;
 
-import com.hvdbs.savra.hackerrank.statsgenerator.HackerRankInfo;
-import com.hvdbs.savra.hackerrank.statsgenerator.enums.Difficulty;
+import com.hvdbs.savra.statsgenerator.CodeInfo;
+import com.hvdbs.savra.statsgenerator.enums.Difficulty;
 
 import java.io.BufferedReader;
 import java.io.InputStreamReader;
 
-@HackerRankInfo(
+@CodeInfo(
         difficulty = Difficulty.MEDIUM,
         name = "Can You Access?",
         url = "https://www.hackerrank.com/challenges/can-you-access"

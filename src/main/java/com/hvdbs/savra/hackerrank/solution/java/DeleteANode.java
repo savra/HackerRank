@@ -1,9 +1,8 @@
 package com.hvdbs.savra.hackerrank.solution.java;
 
-import com.hvdbs.savra.hackerrank.statsgenerator.HackerRankInfo;
-import com.hvdbs.savra.hackerrank.statsgenerator.enums.Difficulty;
-
-@HackerRankInfo(
+import com.hvdbs.savra.statsgenerator.CodeInfo;
+import com.hvdbs.savra.statsgenerator.enums.Difficulty;
+@CodeInfo(
         difficulty = Difficulty.EASY,
         name = "Delete a Node",
         url = "https://www.hackerrank.com/challenges/delete-a-node-from-a-linked-list"

@@ -11,6 +11,7 @@ import org.springframework.context.event.EventListener;
 @SpringBootApplication
 public class HackerRankApplication {
     private final StatisticsGenerator statisticsGenerator;
+
     public static void main(String[] args) {
         SpringApplication.run(HackerRankApplication.class, args);
     }

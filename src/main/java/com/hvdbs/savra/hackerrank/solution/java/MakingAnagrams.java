@@ -24,7 +24,7 @@ public class MakingAnagrams {
             ar2[s2.charAt(i) - 'a']++;
         }
 
-        int result = 0;
+        int result =0;
 
         for (int i = 0; i < 26; i++) {
             result += Math.abs(ar1[i] - ar2[i]);

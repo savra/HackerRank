@@ -22,7 +22,7 @@ public class SubarrayDivision {
         while (r < s.size()) {
             sum += s.get(r);
 
-            if (r >= m - 1) {
+            if (r - l + 1 == m) {
                 if (sum == d) {
                     answer++;
                 }

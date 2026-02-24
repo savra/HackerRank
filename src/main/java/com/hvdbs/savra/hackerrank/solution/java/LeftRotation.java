@@ -25,4 +25,26 @@ public class LeftRotation {
 
         return result;
     }
+
+    /* TC - O(N), SC - O(N)
+    public static List<Integer> rotateLeft(int d, List<Integer> arr) {
+        int n = arr.size();
+        d %= n;
+
+        reverse(arr, 0, n - 1);
+        reverse(arr, 0, d - 1);
+        reverse(arr, d, n - 1);
+
+        return arr;
+    }
+
+    private static void reverse(List<Integer> arr, int i, int j) {
+        int tmp;
+
+        while (i < j) {
+            tmp = arr.get(i);
+            arr.set(i, arr.get(j));
+            arr.set(j, tmp);
+        }
+    }*/
 }

@@ -1,6 +1,17 @@
 # Statistics of problem solving ⭐
 ## JAVA
 <details>
+<summary>MEDIUM</summary>
+
+|Name|Problem|Solution|Time Complexity|Space complexity
+|---|---|---|---|---|
+|Can You Access?|https://www.hackerrank.com/challenges/can-you-access|<a href='https://github.com/savra/HackerRank/tree/master/src/main/java/com/hvdbs/savra/hackerrank/solution/java/CanYouAccess.java'>Can You Access?</a>|$not specified$|$not specified$
+|Container With Most Water|https://leetcode.com/problems/container-with-most-water/description/|<a href='https://github.com/savra/HackerRank/tree/master/src/main/java/com/hvdbs/savra/hackerrank/solution/java/ContainerWithMostWater.java'>Container With Most Water</a>|$O(N)$|$O(N)$
+|Cycle Detection|https://www.hackerrank.com/challenges/detect-whether-a-linked-list-contains-a-cycle|<a href='https://github.com/savra/HackerRank/tree/master/src/main/java/com/hvdbs/savra/hackerrank/solution/java/CycleDetection.java'>Cycle Detection</a>|$not specified$|$not specified$
+|Java Regex|https://www.hackerrank.com/challenges/java-regex|<a href='https://github.com/savra/HackerRank/tree/master/src/main/java/com/hvdbs/savra/hackerrank/solution/java/JavaRegex.java'>Java Regex</a>|$not specified$|$not specified$
+|Prime Checker|https://www.hackerrank.com/challenges/prime-checker|<a href='https://github.com/savra/HackerRank/tree/master/src/main/java/com/hvdbs/savra/hackerrank/solution/java/PrimeChecker.java'>Prime Checker</a>|$not specified$|$not specified$
+</details>
+<details>
 <summary>EASY</summary>
 
 |Name|Problem|Solution|Time Complexity|Space complexity
@@ -85,14 +96,4 @@
 |2D Array - DS|https://www.hackerrank.com/challenges/2d-array|<a href='https://github.com/savra/HackerRank/tree/master/src/main/java/com/hvdbs/savra/hackerrank/solution/java/TwoDArrayDS.java'>2D Array - DS</a>|$not specified$|$not specified$
 |Valid Username Regular Expression|https://www.hackerrank.com/challenges/valid-username-checker|<a href='https://github.com/savra/HackerRank/tree/master/src/main/java/com/hvdbs/savra/hackerrank/solution/java/ValidUsernameRegularExpression.java'>Valid Username Regular Expression</a>|$not specified$|$not specified$
 |Welcome to Java!|https://www.hackerrank.com/challenges/welcome-to-java|<a href='https://github.com/savra/HackerRank/tree/master/src/main/java/com/hvdbs/savra/hackerrank/solution/java/WelcomeToJava.java'>Welcome to Java!</a>|$not specified$|$not specified$
-</details>
-<details>
-<summary>MEDIUM</summary>
-
-|Name|Problem|Solution|Time Complexity|Space complexity
-|---|---|---|---|---|
-|Can You Access?|https://www.hackerrank.com/challenges/can-you-access|<a href='https://github.com/savra/HackerRank/tree/master/src/main/java/com/hvdbs/savra/hackerrank/solution/java/CanYouAccess.java'>Can You Access?</a>|$not specified$|$not specified$
-|Cycle Detection|https://www.hackerrank.com/challenges/detect-whether-a-linked-list-contains-a-cycle|<a href='https://github.com/savra/HackerRank/tree/master/src/main/java/com/hvdbs/savra/hackerrank/solution/java/CycleDetection.java'>Cycle Detection</a>|$not specified$|$not specified$
-|Java Regex|https://www.hackerrank.com/challenges/java-regex|<a href='https://github.com/savra/HackerRank/tree/master/src/main/java/com/hvdbs/savra/hackerrank/solution/java/JavaRegex.java'>Java Regex</a>|$not specified$|$not specified$
-|Prime Checker|https://www.hackerrank.com/challenges/prime-checker|<a href='https://github.com/savra/HackerRank/tree/master/src/main/java/com/hvdbs/savra/hackerrank/solution/java/PrimeChecker.java'>Prime Checker</a>|$not specified$|$not specified$
 </details>

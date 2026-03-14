@@ -1,6 +1,18 @@
 # Statistics of problem solving ⭐
 ## JAVA
 <details>
+<summary>MEDIUM</summary>
+
+|Name|Problem|Solution|Time Complexity|Space complexity
+|---|---|---|---|---|
+|Can You Access?|https://www.hackerrank.com/challenges/can-you-access|<a href='https://github.com/savra/HackerRank/tree/master/src/main/java/com/hvdbs/savra/hackerrank/solution/java/CanYouAccess.java'>Can You Access?</a>|$not specified$|$not specified$
+|Container With Most Water|https://leetcode.com/problems/container-with-most-water/description/|<a href='https://github.com/savra/HackerRank/tree/master/src/main/java/com/hvdbs/savra/hackerrank/solution/java/ContainerWithMostWater.java'>Container With Most Water</a>|$O(N)$|$O(N)$
+|Cycle Detection|https://www.hackerrank.com/challenges/detect-whether-a-linked-list-contains-a-cycle|<a href='https://github.com/savra/HackerRank/tree/master/src/main/java/com/hvdbs/savra/hackerrank/solution/java/CycleDetection.java'>Cycle Detection</a>|$not specified$|$not specified$
+|Java Regex|https://www.hackerrank.com/challenges/java-regex|<a href='https://github.com/savra/HackerRank/tree/master/src/main/java/com/hvdbs/savra/hackerrank/solution/java/JavaRegex.java'>Java Regex</a>|$not specified$|$not specified$
+|Prime Checker|https://www.hackerrank.com/challenges/prime-checker|<a href='https://github.com/savra/HackerRank/tree/master/src/main/java/com/hvdbs/savra/hackerrank/solution/java/PrimeChecker.java'>Prime Checker</a>|$not specified$|$not specified$
+|Sparse Arrays|https://www.hackerrank.com/challenges/sparse-arrays/problem|<a href='https://github.com/savra/HackerRank/tree/master/src/main/java/com/hvdbs/savra/hackerrank/solution/java/SparseArrays.java'>Sparse Arrays</a>|$O(N)$|$O(N)$
+</details>
+<details>
 <summary>EASY</summary>
 
 |Name|Problem|Solution|Time Complexity|Space complexity
@@ -12,6 +24,7 @@
 |Delete duplicate-value nodes from a sorted linked list|https://www.hackerrank.com/challenges/delete-duplicate-value-nodes-from-a-sorted-linked-list|<a href='https://github.com/savra/HackerRank/tree/master/src/main/java/com/hvdbs/savra/hackerrank/solution/java/DeleteDuplicateValueNodesFromASortedLinkedList.java'>Delete duplicate-value nodes from a sorted linked list</a>|$not specified$|$not specified$
 |Find Merge Point of Two Lists|https://www.hackerrank.com/challenges/find-the-merge-point-of-two-joined-linked-lists|<a href='https://github.com/savra/HackerRank/tree/master/src/main/java/com/hvdbs/savra/hackerrank/solution/java/FindMergePointOfTwoLists.java'>Find Merge Point of Two Lists</a>|$not specified$|$not specified$
 |Get Node Value|https://www.hackerrank.com/challenges/get-the-value-of-the-node-at-a-specific-position-from-the-tail|<a href='https://github.com/savra/HackerRank/tree/master/src/main/java/com/hvdbs/savra/hackerrank/solution/java/GetNodeValue.java'>Get Node Value</a>|$not specified$|$not specified$
+|Ice Cream Parlor|https://www.hackerrank.com/challenges/icecream-parlor/problem|<a href='https://github.com/savra/HackerRank/tree/master/src/main/java/com/hvdbs/savra/hackerrank/solution/java/IceCreamParlor.java'>Ice Cream Parlor</a>|$O(N)$|$O(1)$
 |Insert a node at a specific position in a linked list|https://www.hackerrank.com/challenges/insert-a-node-at-a-specific-position-in-a-linked-list|<a href='https://github.com/savra/HackerRank/tree/master/src/main/java/com/hvdbs/savra/hackerrank/solution/java/InsertANodeAtASpecificPositionInALinkedList.java'>Insert a node at a specific position in a linked list</a>|$not specified$|$not specified$
 |Insert a node at the head of a linked list|https://www.hackerrank.com/challenges/insert-a-node-at-the-head-of-a-linked-list|<a href='https://github.com/savra/HackerRank/tree/master/src/main/java/com/hvdbs/savra/hackerrank/solution/java/InsertANodeAtTheHeadOfALinkedList.java'>Insert a node at the head of a linked list</a>|$not specified$|$not specified$
 |Insert a Node at the Tail of a Linked List|https://www.hackerrank.com/challenges/insert-a-node-at-the-tail-of-a-linked-list|<a href='https://github.com/savra/HackerRank/tree/master/src/main/java/com/hvdbs/savra/hackerrank/solution/java/InsertANodeAtTheTailOfALinkedList.java'>Insert a Node at the Tail of a Linked List</a>|$not specified$|$not specified$
@@ -85,16 +98,4 @@
 |2D Array - DS|https://www.hackerrank.com/challenges/2d-array|<a href='https://github.com/savra/HackerRank/tree/master/src/main/java/com/hvdbs/savra/hackerrank/solution/java/TwoDArrayDS.java'>2D Array - DS</a>|$not specified$|$not specified$
 |Valid Username Regular Expression|https://www.hackerrank.com/challenges/valid-username-checker|<a href='https://github.com/savra/HackerRank/tree/master/src/main/java/com/hvdbs/savra/hackerrank/solution/java/ValidUsernameRegularExpression.java'>Valid Username Regular Expression</a>|$not specified$|$not specified$
 |Welcome to Java!|https://www.hackerrank.com/challenges/welcome-to-java|<a href='https://github.com/savra/HackerRank/tree/master/src/main/java/com/hvdbs/savra/hackerrank/solution/java/WelcomeToJava.java'>Welcome to Java!</a>|$not specified$|$not specified$
-</details>
-<details>
-<summary>MEDIUM</summary>
-
-|Name|Problem|Solution|Time Complexity|Space complexity
-|---|---|---|---|---|
-|Can You Access?|https://www.hackerrank.com/challenges/can-you-access|<a href='https://github.com/savra/HackerRank/tree/master/src/main/java/com/hvdbs/savra/hackerrank/solution/java/CanYouAccess.java'>Can You Access?</a>|$not specified$|$not specified$
-|Container With Most Water|https://leetcode.com/problems/container-with-most-water/description/|<a href='https://github.com/savra/HackerRank/tree/master/src/main/java/com/hvdbs/savra/hackerrank/solution/java/ContainerWithMostWater.java'>Container With Most Water</a>|$O(N)$|$O(N)$
-|Cycle Detection|https://www.hackerrank.com/challenges/detect-whether-a-linked-list-contains-a-cycle|<a href='https://github.com/savra/HackerRank/tree/master/src/main/java/com/hvdbs/savra/hackerrank/solution/java/CycleDetection.java'>Cycle Detection</a>|$not specified$|$not specified$
-|Java Regex|https://www.hackerrank.com/challenges/java-regex|<a href='https://github.com/savra/HackerRank/tree/master/src/main/java/com/hvdbs/savra/hackerrank/solution/java/JavaRegex.java'>Java Regex</a>|$not specified$|$not specified$
-|Prime Checker|https://www.hackerrank.com/challenges/prime-checker|<a href='https://github.com/savra/HackerRank/tree/master/src/main/java/com/hvdbs/savra/hackerrank/solution/java/PrimeChecker.java'>Prime Checker</a>|$not specified$|$not specified$
-|Sparse Arrays|https://www.hackerrank.com/challenges/sparse-arrays/problem|<a href='https://github.com/savra/HackerRank/tree/master/src/main/java/com/hvdbs/savra/hackerrank/solution/java/SparseArrays.java'>Sparse Arrays</a>|$O(N)$|$O(N)$
 </details>
